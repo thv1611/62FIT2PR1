@@ -1,4 +1,4 @@
-package pr1.variables.exercises.math;
+package pr1.variables.exercises.Triangle;
 
 import java.util.Scanner;
 
